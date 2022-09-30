@@ -145,7 +145,8 @@ In the first demonstrative version, minimum features have been disclosed in orde
   - The footer section includes links to the selected few social media sites for Life Coin. The links will open to a new tab to allow easy navigation for the user and to keep our site always open. Footer is very important to the users since it gives further options to visit that expand to other widely used sites, connect with the Team, and even directly contact with any requests or problems. Footer is broken down into two parts, both made up of the main site's colors orange and teal. The first one consists of strictly recognized social platforms, while the second part offers direct contact information of the site and brand. Main inspiration for the background was black volcanic sand which gets very hot with the sun (light) reaching it. In full PC mode, users can see the video as if they are holding the phone above the sand standing up. And the form has zoomed-in background to the sand, as if user has already looked down in the sand and found a form while watching a video
 
   ![Footer](./assets/media/images/Readme/footer.jpg)
-
+  
+---
 ### Upcoming Features
 
 Next version:
