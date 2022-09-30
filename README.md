@@ -2,10 +2,11 @@
 
 Life Coin site is a digital representation of an interaction platform powering an alternative and independent new economy system. The reason for the development of this site is to slowly introduce to the public this innovative and collaborative environment for purposes of financial education, poverty reduction, and improvement of lifestyles while achieving life-long goals. This site is for every human's personal and business use no matter their unique life experiences.
 
- In our live public area, all humans are encouraged to contribute and grow together towards a better tomorrow. Users will be able to join our public workspace where they can increase and store their wealth through various missions offers and financial tools. All efforts are additionally rewarded with infinite options to purchase from real-world service providers with extremely large discounts. Our focus will always remain on only supporting sustainable products and services. While covering one of the key aspects of life, users are also paying unnoticeable taxation that transparently funds the charity and business missions.
+In our live public area, all humans are encouraged to contribute and grow together towards a better tomorrow. Users will be able to join our public workspace where they can increase and store their wealth through various missions offers and financial tools. All efforts are additionally rewarded with infinite options to purchase from real-world service providers with extremely large discounts. Our focus will always remain on only supporting sustainable products and services. While covering one of the key aspects of life, users are also paying unnoticeable taxation that transparently funds the charity and business missions.
 
-![Multi-devices Views](./assets/media/images/Readme/multi_devices_view.jpg)
+Please note this is only a basic version of our website created by our main Life Developer who had no experience yet in global coding languages. In the period of: (26.6.2022. - 26.9. 2022.) basic theory on HTML and CSS has been covered through university-level certified Code Institute and a first website has been created for grading purposes. In addition, this public version has been included to continue collectively build the site without any limitations. This website and product will be our economic foundation to upcoming official organizations and projects in the real world. For now, only few details have been strategically selected to be shared with public. Full-scale project and the depth of it is unimaginable and therefore has to be deployed in many phases to prevent oversaturation of ocean-size information content and poor user experience.
 
+![Multi-devices Views](./assets/media/images/Readme/responsiveness.jpg)
 ------
 
 ## Features 
@@ -26,12 +27,10 @@ In the first demonstrative version, minimum features have been disclosed in orde
   
   - Strategical and categorical division allows users to easily navigate from page to page across all devices without having to return back to the previous page via the ‘back’ button in the browser. This is extremely helpful when getting to know a new service or a website
 
-  ![Navigation Bar - Slim](./assets/media/images/Readme/nav_small.jpg)
-  
   ![Navigation Bar - Wide](./assets/media/images/Readme/nav_large.jpg)
 
+  ![Navigation Bar - Slim](./assets/media/images/Readme/nav_small.jpg)
   
-
 - __Landing Video__
 
   - The landing includes a professional custom-made promotional video that features main Earth's elements hinting at the overall team of this brand
@@ -117,6 +116,20 @@ In the first demonstrative version, minimum features have been disclosed in orde
 
   ![Journey](./assets/media/images/Readme/journey.jpg)
 
+- __Funding__
+
+  - The Funding section allows user to immediately interact with our concept and explore the foundations of our new economy concept. The structure of the page guides user first throught the funding concept, investment instructions and some basic terms on the landing page. The pageis design to be relaxed to bring serious information to the wall that contains features of bamboo and specific type of leaves to leave user with a feeling that it is almost at the tropical rewarding location. Sub-menu allows user to enter the Projects page which only features each project open to users to participate or invest into. Each featured project is built identically placing a relevant picture at the top followed by the key short information and at the end long description of what project aims to achieve. Projects section is not overdesigned in order to avoid distractions from important conent. Only based on black, white orange and teal color for strategic categorization
+
+  ![Funding Info](./assets/media/images/Readme/funding_one.jpg)
+
+  ![Funding Info](./assets/media/images/Readme/funding_two.jpg)
+
+  ![Funding Projects](./assets/media/images/Readme/projects_one.jpg)
+  
+  ![Funding Projects](./assets/media/images/Readme/projects_two.jpg)
+
+  ![Funding Projects](./assets/media/images/Readme/projects_three.jpg)
+
 - __Registration__
 
   - The registration form will allow the user to fully integrate into the community, as well as the benefits to customize upcoming life experiences based on personal preferences or past. By completing this short online form, users' life will significantly change their daily schedule towards the life they always dreamed about without hurting others. Healthy habits and services will be introduced immediately to users. Once that new versions of this site will be released, they will be able to specify which exact tasks they want to create for themselves or others or even join already posted global tasks and missions. 
@@ -135,34 +148,74 @@ In the first demonstrative version, minimum features have been disclosed in orde
 
 ### Upcoming Features
 
-  - __Projects and missions collaboration page__ 
-  - __Personal wishlist for users__ 
-  - __Navigation title links per color in each letter__ 
-  - __Gallery__ 
-  - __Two factor authetification__ 
-  - __Secure log-in system__ 
-  - __Form data receiving page__ 
-  - __Sponsors footer__ 
-  - __Partnerships footer__ 
-  - __Testimonials__ 
-  - __Map__ 
-  - __Countdown__ 
-  - __Traffic monitor__ 
-  - __Users count__ 
-  - __Whitepaper__ 
-  - __Legal protection__ 
-  - __Community voting__ 
-  - __Team page and profiles__ 
-  - __Business partners page__ 
-  - __Refferals__ 
+Next version:
+
+- Website functional on every device and resolution
+- Website Animations
+- Content improvement and additions
+- Business Software
+- Education Software
+- Updates on Timelines and Features
+- Global Social Network	
+- Designs and development refresh
+- Sound Libraries
+- Video Platform
+- Galleries
+- Secure Login System
+- Multi-factor Verification
+- Collaboration Advertising Banner
+- Testimonies
+- Live counters 
+- Professional Whitepaper 
+- Transparent Business Documentation
+- Website Traffic Count
+- Live Knowledge Capturing
+- Newsletters
+- Communication Notifications
+- Voting Form
+- Feedback / Complaint / Compliment Form
+- Sharing Form
+- Invitation Form ( Referral + Commission)
+- Privacy Statements
+- Legal Protection Disclosure
+- Universal and  simple new Coding Language
+- Collaboration Environment Dashboard
+- Steps to Success Instruction Manuals
+- New communication protocol
+- Creation of new WEB 
+- Creation of new global online commerce shop
+- Creation of new WEB browsers and tools
+- Disclosure on our Operational System
+- Creation of all websites for projects
+- Creation of all websites for businesses
+- Creation of all remaining websites
+- Team Structure page
+- Team Members Profiles
+- Business Collaborators Profiles
+- Community Profiles Feedback / Complaint / Compliment Form
+- Feedback / Complaint / Compliment Form	
+- Collective and Individual Tracking & Reporting
+- Transparent business model once officially registered
+- All new confidential content and inventions
+- Total investments expandable button live counter
+- Entertainment Games
+- Financial Games
+- Real-Life Utility Games
+- Contribution and Request interactive segment
+- Transaction Tracker, Reporter and Claimer
+- Maps
+- Limited accessibility mode
+- Browse around Timeline Section for more information
+- New timeline for Ruling and Legacy for period after 21.4.2024.
+- ! Infinite more possibilities are coming soon !
+- All Business, Education and Personal Knowledge with missions dashboard will be available upon reaching first funding goal for legal protection or The Great Disclosure 21042024. Including the collaboration platform that will feature Lifecoin in the Lifeconomy 
+
   
 ---
 
 ## Testing 
 
 - I have conducted enough hours of testing across all screen sizes and different browsers to conclude that now site works well and all discussed features included. Internet Explorer, Google Chrome, Safari, Firefox on large PC monitor, average laptop, tablet and various mobile devices.
-
-- Only bug that has not been addressed is sun background image on the features site used as a subtitle. Due to only beginning to code, developer needs to cover next topics in order to create proper animation of sun and clouds.
 
 ### Validator Testing 
 
@@ -190,7 +243,10 @@ Since all code is running smoothly and has been verified from the first attempt,
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://bono-94.github.io/Project-1-Code-Institute-HTML-CSS/ 
+The live links can be found here 
+
+  - [Official Public Site](https://lifecoin.earth)
+  - [GitHub Public Site](https://bono-94.github.io/Life_Coin_Live/)
 
 ---
 
@@ -208,7 +264,7 @@ The live link can be found here - https://bono-94.github.io/Project-1-Code-Insti
 
   - All debugging and problem-solving has been done strictly by trying different combinations with known and unknown elements and attributes. No external sources and no professional help 
  
-  - Instructions on how to use various unexplored elements and attributes were consulted with [W3 Schools](https://www.w3schools.com/)
+  - [W3school](https://www.w3schools.com/) has been used as an additional theory and understanding of elements, attributes and values
 
 
 ### Media
@@ -221,6 +277,10 @@ The live link can be found here - https://bono-94.github.io/Project-1-Code-Insti
 
     - [Unsplash](https://unsplash.com/)
 
+ - The photos used in this README file to demonstrate responsiveness are made on the website:
+  
+    - [Am I Responsive?](https://ui.dev/amiresponsive)
+
   - All 3 external fonts have been imported from:
   
     - [Google Fonts](https://fonts.google.com/)
@@ -231,9 +291,11 @@ The live link can be found here - https://bono-94.github.io/Project-1-Code-Insti
 
 ### Tools
 
-- Grammarly software has been used to verify grammar on the site and this README file
+- [Grammarly](https://app.grammarly.com/) software has been used to verify grammar on the site and this README file
 
-- Nicepage software has been used for initial concept modelling of different potential designs
+- [Nicepage](https://nicepage.com/) software has been used for initial concept modelling of different potential designs
+
+- [Formsubmit](https://formsubmit.co/) website has been used to mail form results to an admin's email address
 
 ---
 Thank you for READING ME!
