@@ -1,6 +1,6 @@
-# [Life Coin](https://lifecoin.earth) 
+# [Lifecoin](https://lifecoin.earth) 
 
-Life Coin site is a digital representation of an interaction platform powering an alternative and independent new economy system. The reason for the development of this site is to slowly introduce to the public this innovative and collaborative environment for purposes of financial education, poverty reduction, and improvement of lifestyles while achieving life-long goals. This site is for every human's personal and business use no matter their unique life experiences.
+Lifecoin site is a digital representation of an interaction platform powering an alternative and independent new economy system. The reason for the development of this site is to slowly introduce to the public this innovative and collaborative environment for purposes of financial education, poverty reduction, and improvement of lifestyles while achieving life-long goals. This site is for every human's personal and business use no matter their unique life experiences.
 
 In our live public area, all humans are encouraged to contribute and grow together towards a better tomorrow. Users will be able to join our public workspace where they can increase and store their wealth through various missions offers and financial tools. All efforts are additionally rewarded with infinite options to purchase from real-world service providers with extremely large discounts. Our focus will always remain on only supporting sustainable products and services. While covering one of the key aspects of life, users are also paying unnoticeable taxation that transparently funds the charity and business missions.
 
@@ -145,7 +145,7 @@ In the first demonstrative version, minimum features have been disclosed in orde
   - The footer section includes links to the selected few social media sites for Life Coin. The links will open to a new tab to allow easy navigation for the user and to keep our site always open. Footer is very important to the users since it gives further options to visit that expand to other widely used sites, connect with the Team, and even directly contact with any requests or problems. Footer is broken down into two parts, both made up of the main site's colors orange and teal. The first one consists of strictly recognized social platforms, while the second part offers direct contact information of the site and brand. Main inspiration for the background was black volcanic sand which gets very hot with the sun (light) reaching it. In full PC mode, users can see the video as if they are holding the phone above the sand standing up. And the form has zoomed-in background to the sand, as if user has already looked down in the sand and found a form while watching a video
 
   ![Footer](./assets/media/images/Readme/footer.jpg)
-  
+
 ---
 ### Upcoming Features
 
